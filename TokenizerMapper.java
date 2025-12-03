@@ -1,4 +1,4 @@
-  package hadoop.mapreduce.tp1;
+  /*package hadoop.mapreduce.tp1;
 
   import hadoop.io.IntWritable;
   import org.apache.hadoop.io.Text;
@@ -22,3 +22,4 @@
         }
     }
   }
+*/
